@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println ("Esto es un ejemplo-1   ******************")
         println ("Esto es un ejemplo-2   ******************")
+        println ("Esto es un ejemplo-3   ******************")
         //val text=TextView("UUUUUUU")
     }
 }
